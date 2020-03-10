@@ -1,4 +1,4 @@
-class Song 
+leaclass Song 
 attr_accessor :name, :artist
 
 @@all= []
